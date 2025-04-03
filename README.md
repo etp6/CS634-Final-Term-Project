@@ -9,7 +9,7 @@ This project implements and evaluates three classification algorithms on the Bre
 - `finaltermproj_notebook.ipynb` – Jupyter notebook with all code and results
 - `breast_cancer_data.csv` – Dataset used for classification
 - `rf_results.csv`, `knn_results.csv`, `lstm_results.csv` – Per-fold and average metrics
-- `finaltermproj.py` – Source code file
+- `finaltermproj.py` – Python source code
 
 ## Instructions to Run
 1. Install required packages
